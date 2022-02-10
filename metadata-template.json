@@ -1,0 +1,32 @@
+{
+  "name": "ETC",
+  "symbol": "ETC",
+  "description": "Foster Marketplace presents the ETC Genesis 69 Collection to Fuel the new digital art economy.",
+  "seller_fee_basis_points": 500,
+  "image": "",
+  "creators": ["8urUAT6cdM8JL295vJvngWBcpXBybrs7rrpSa7vGoo5f", "8i2SNjHt1zxKiwawQLWS6C5BWWzz7w8gmxcQvsyEoTJi"],
+  "attributes": [
+  ],
+  "collection": {
+    "name": "ExtraOrdinary Turkey Cirkus NFT Gen 1",
+    "family": "ExtraOrdinary Turkey Cirkus NFT"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "",
+        "type": "image/jpeg"
+      }
+    ],
+    "creators": [
+      {
+        "address": "8urUAT6cdM8JL295vJvngWBcpXBybrs7rrpSa7vGoo5f",
+        "share": 80
+      },
+      {
+        "address": "8i2SNjHt1zxKiwawQLWS6C5BWWzz7w8gmxcQvsyEoTJi",
+        "share": 20
+      }
+    ]
+  }
+}
